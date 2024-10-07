@@ -1,0 +1,43 @@
+#bg{
+  background-color: rgb(202, 202, 238);
+}
+.heading{
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+#row-head{
+    background-color:rgb(7, 7, 146);
+    padding: 30px;
+    padding-left: 100px;
+
+}
+
+.photo {
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+#photo{
+    padding-left: 60px;
+}
+.head-title{
+   color: white;
+   padding-top: 10px;
+
+  }
+
+  #row-body{
+    padding: 30px;
+    padding-left: 100px;
+  }
+
+  .para{
+    text-align: justify;
+  }
+
+.years{
+    text-align: end;
+}
+
+
